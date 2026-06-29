@@ -1,7 +1,7 @@
 # Staff Tracking System  
 ### Real-time Multi-Object Tracking, Face Recognition & Seat State Intelligence
 
-```markdown
+```
 ![Demo picture](./Screenshot 2026-06-29 at 14.31.34.png)
 ```
 
