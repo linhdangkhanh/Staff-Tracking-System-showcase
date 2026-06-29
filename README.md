@@ -1,6 +1,10 @@
 # Staff Tracking System  
 ### Real-time Multi-Object Tracking, Face Recognition & Seat State Intelligence
 
+![Demo picture](Screenshot 2026-06-29 at 14.31.34.png)
+
+View full project at: https://github.com/kimanaru-1010/Nhom-14_BKAS
+
 A computer vision system that combines **YOLOv8 object detection**, **ByteTrack multi-object tracking**, **InsightFace face recognition**, and **OSNet re-identification** to build an intelligent workspace monitoring system.
 
 The system tracks people and chairs in real time and uses a **Finite State Machine (FSM)** to infer seat occupancy behavior:
