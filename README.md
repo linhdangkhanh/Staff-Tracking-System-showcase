@@ -1,7 +1,7 @@
 # Staff Tracking System  
 ### Real-time Multi-Object Tracking, Face Recognition & Seat State Intelligence
 
-![Demo picture](Screenshot 2026-06-29 at 14.31.34.png)
+![Demo picture](./Screenshot 2026-06-29 at 14.31.34.png)
 
 View full project at: https://github.com/kimanaru-1010/Nhom-14_BKAS
 
