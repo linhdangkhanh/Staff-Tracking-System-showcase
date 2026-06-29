@@ -50,7 +50,7 @@ Violation detection triggers when another person occupies a reserved seat.
 ---
 
 # 📁 Project Structure
-
+```bash
 │
 ├── source/
 │ ├── main.py # Full pipeline
@@ -72,6 +72,7 @@ Violation detection triggers when another person occupies a reserved seat.
 ├── test_setting_lib/ # Experiments
 ├── requirements.txt
 └── README.md
+```
 
 
 ---
